@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adham Ahmed</h1>
 <h3 align="center">Frontend Developer | Exploring Full-Stack Development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adham14a&label=Profile%20Views&color=0e75b6&style=flat-square" alt="adham14a profile views" />
-</p>
 
 <p align="center">
   🚀 Crafting <b>clean, modern, and fully responsive web experiences</b>.<br>
